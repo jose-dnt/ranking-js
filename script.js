@@ -508,8 +508,9 @@ async function main() {
         print(`
             
         ╔═════════════════════════════════════════════════════════════╗
-        ║    Bem-vindo ao sistema de ranking de League of Legends!    ║
+        ║        Bem-vindo ao gerenciador de ranking esportivo!       ║
         ╚═════════════════════════════════════════════════════════════╝
+
 
                        Escolha uma das opções abaixo:                  
                           ↑ ↓ para mover o cursor 
@@ -748,5 +749,6 @@ async function main() {
     }
 
 }
+
 
 main()
